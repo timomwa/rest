@@ -1,0 +1,5 @@
+reports/rest/util/WebResources.class
+reports/rest/rest/MarketDataREST.class
+reports/rest/controller/MemberController.class
+reports/rest/rest/MemberResourceRESTService.class
+reports/rest/rest/JaxRsActivator.class

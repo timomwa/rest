@@ -1,0 +1,9 @@
+reports/rest/model/DataPiece.class
+reports/rest/service/DataPieceRetrieverEJBImpl.class
+reports/rest/util/Resources.class
+reports/rest/model/QueryParamDTO.class
+reports/rest/service/MemberRegistration.class
+reports/rest/model/Member.class
+reports/rest/service/DataPieceRetrieverEJBI.class
+reports/rest/data/MemberRepository.class
+reports/rest/data/MemberListProducer.class
